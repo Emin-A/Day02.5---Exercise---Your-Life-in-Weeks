@@ -9,6 +9,5 @@ months = round(years_left * 12)
 weeks = round(months * 52)
 # days = 36,192 weeks left * 365 = 13,210,080 days left
 days = round(weeks * 365)
-
-
+# print how much time you have left in this world
 print(f"You have {days} days, {weeks} weeks, and {months} months left!!!")
